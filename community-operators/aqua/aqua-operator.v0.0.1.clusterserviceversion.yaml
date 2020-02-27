@@ -5,6 +5,7 @@ metadata:
   namespace: placeholder
   annotations:
     capabilities: Basic Install
+    "operatorframework.io/cluster-monitoring": "true"
     categories: Security
     description: The Aqua Security Operator runs within a Openshift cluster and provides a means to deploy and manage Aqua Security cluster and components.
     certified: "false"
