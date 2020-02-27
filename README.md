@@ -1,5 +1,6 @@
 # About this repository
 
+
 This repo is the canonical source for Kubernetes Operators that appear on [OperatorHub.io](https://operatorhub.io), [OpenShift Container Platform](https://openshift.com) and [OKD](https://okd.io).
 
 # Know what to contribute
